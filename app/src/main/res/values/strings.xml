@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherAppJ</string>
+    <string name="favorite">Favorite</string>
+    <string name="city_name">City Name</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="forecast">Weather Forecast (for today)</string>
+    <string name="temp">23</string>
+    <string name="condition">Condition</string>
+    <string name="favorite_btn">Favorites</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="English">English</string>
+    <string name="language">Language</string>
+    <string name="Vietnamese">Vietnamese</string>
+    <string name="Hindi">Hindi</string>
+    <string name="Share">Share</string>
+    <string name="Weather_Forecast">Weather Forecast</string>
+</resources>
